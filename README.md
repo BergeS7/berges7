@@ -2,13 +2,17 @@
 
 # 👋 Olá, eu sou Sergio Bergê
 
-### Software Developer • Computer Engineering • IoT • Automation • AI
+### Software Developer • Computer Engineering • Automation • IoT • AI
 
 **Transformando problemas reais em software, automações e dispositivos inteligentes.**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=BergeS7&label=VISITAS%20NO%20PERFIL&style=for-the-badge" />
+<a href="https://github.com/BergeS7">
+  <img src="https://img.shields.io/badge/GitHub-BergeS7-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=BergeS7&label=VISITAS&style=for-the-badge">
 
 </div>
 
@@ -30,250 +34,432 @@ const sergio = {
     "Computer Networks"
   ],
 
-  currentlyBuilding: "CLARIA 🤖",
+  currentlyBuilding: [
+    "CLARIA",
+    "Smart HelpDesk Enterprise"
+  ],
 
   philosophy: "Build things that solve real problems."
 };
 ```
 
-Desenvolvo soluções conectando **software, automação, dados e hardware**.
+Gosto de desenvolver soluções que conectam **software, automação, dados e hardware**.
 
-Meu foco está na construção de sistemas que não ficam apenas na tela, mas que podem **interagir com processos, dispositivos e o mundo real**.
+Meu interesse está principalmente em projetos que ultrapassam a tela e conseguem interagir com **processos, infraestrutura, dispositivos e o mundo real**.
 
 ---
 
 # 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens
+## 💻 Linguagens
 
-<div align="left">
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" title="C#"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" title="C"/>
 
 </div>
 
-### 🎨 Front-end
+<br>
 
-<div align="left">
+## 🎨 Front-end
+
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" title="React"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" height="45" title="Angular"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45" title="Sass"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" title="Bootstrap"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" title="Tailwind CSS"/>
 
 </div>
 
-### ⚙️ Back-end
+<br>
 
-<div align="left">
+## ⚙️ Back-end
+
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" title="Express"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" title=".NET"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" title="Spring"/>
 
 </div>
 
-### 🗄️ Bancos de Dados
+<br>
 
-<div align="left">
+## 🗄️ Bancos de Dados
+
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" title="SQL Server"/>
 
 </div>
 
-### 🐳 DevOps, Cloud & Ferramentas
+<br>
 
-<div align="left">
+## 🐳 DevOps, Cloud & Ferramentas
+
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" title="Azure"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="45" height="45" title="Jenkins"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" title="Postman"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
 
 </div>
 
-### 🔌 Hardware & IoT
+<br>
 
-<div align="left">
+## 🔌 Hardware & IoT
+
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" height="45" title="Arduino"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" title="Raspberry Pi"/>
 
 </div>
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Projetos em Destaque
 
-<table>
-<tr>
+## 🤖 CLARIA
 
-<td width="50%" valign="top">
+### Embedded AI Assistant
 
-### 🤖 CLARIA
+<div align="center">
 
-**Embedded AI Assistant**
+<img src="./assets/claria-esp32.png"
+  width="650"
+  alt="CLARIA - Assistente Inteligente com ESP32">
 
-Assistente inteligente combinando IA, interação por voz, interface facial animada e hardware embarcado.
+</div>
 
-**Tecnologias**
+<br>
 
-`Python` `ESP32-S3` `AI` `IoT` `I2S`
+A **CLARIA** é uma assistente inteligente desenvolvida para combinar **software, Inteligência Artificial e hardware embarcado** em um único dispositivo.
 
-**Recursos**
+O projeto utiliza um ESP32 com interface gráfica própria e foi projetado para permitir interação natural através de voz, animações e serviços inteligentes.
 
-* 🎙️ Reconhecimento de voz
-* 🔊 Síntese de voz
-* 🧠 Inteligência Artificial
-* 👀 Expressões animadas
-* 🌐 Consultas online
-* 🔌 Hardware dedicado
+### ✨ Recursos
 
-</td>
+* 🎙️ Entrada e reconhecimento de voz
+* 🔊 Reprodução e síntese de áudio
+* 🧠 Integração com Inteligência Artificial
+* 👀 Interface facial animada
+* 🙂 Expressões e estados visuais
+* 🌐 Comunicação com serviços externos
+* 📡 Conectividade Wi-Fi
+* 🔌 Hardware embarcado
 
-<td width="50%" valign="top">
+### 🔧 Hardware
 
-### 🎫 Smart HelpDesk
+`ESP32` `Display TFT` `INMP441` `MAX98357A` `Speaker`
 
-**Enterprise Support Platform**
+### 💻 Software
 
-Plataforma para centralização e gerenciamento de suporte corporativo.
+`Python` `C/C++` `AI` `API` `IoT`
 
-**Tecnologias**
+### 🏗️ Arquitetura
 
-`React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
-
-**Recursos**
-
-* 🎫 Gestão de chamados
-* ⏱️ Controle de SLA
-* 📊 Dashboards
-* 👥 Gestão de equipes
-* ⭐ Pesquisa de satisfação
-* 📚 Base de conhecimento
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚗 Smart Fleet
-
-**Fleet Management Platform**
-
-Sistema para gerenciamento e acompanhamento de frotas de veículos.
-
-**Tecnologias**
-
-`React` `REST API` `PostgreSQL` `Docker`
-
-**Recursos**
-
-* 🚙 Veículos
-* 👤 Motoristas
-* ⛽ Abastecimentos
-* 🔧 Manutenções
-* 📄 Documentação
-* 📊 Indicadores
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🖥️ Network Sentinel
-
-**IT Infrastructure Monitoring**
-
-Plataforma para monitoramento e inventário de computadores e ativos de TI.
-
-**Tecnologias**
-
-`Python` `FastAPI` `React` `WebSocket`
-
-**Recursos**
-
-* 💻 Inventário de hardware
-* 🌐 Monitoramento de rede
-* 🟢 Status online/offline
-* 📈 Métricas em tempo real
-* 🗺️ Visualização geográfica
-* 🔔 Alertas
-
-</td>
-
-</tr>
-</table>
+```text
+                 USUÁRIO
+                    │
+                    ▼
+                🎙️ Voz
+                    │
+                    ▼
+              ┌───────────┐
+              │   CLARIA  │
+              │   ESP32   │
+              └─────┬─────┘
+                    │
+                  Wi-Fi
+                    │
+                    ▼
+              ┌───────────┐
+              │  Backend  │
+              │   / API   │
+              └─────┬─────┘
+                    │
+                    ▼
+              Inteligência
+                Artificial
+                    │
+                    ▼
+              ┌───────────┐
+              │   ESP32   │
+              └─────┬─────┘
+                    │
+              ┌─────┴─────┐
+              ▼           ▼
+          🖥️ Display    🔊 Áudio
+```
 
 ---
 
-# 🔬 Explorando
+# 🎫 Smart HelpDesk Enterprise
+
+### Enterprise IT Support & Infrastructure Platform
+
+O **Smart HelpDesk Enterprise** é uma plataforma desenvolvida para centralizar e modernizar o gerenciamento de suporte e infraestrutura de TI.
+
+O sistema integra chamados, técnicos, SLA, ativos, monitoramento e indicadores em uma única plataforma.
+
+---
+
+## 📋 Kanban de Chamados
+
+<div align="center">
+
+<img src="./assets/smart-helpdesk-kanban.png"
+  width="100%"
+  alt="Smart HelpDesk - Kanban de Chamados">
+
+</div>
+
+<br>
+
+O painel Kanban permite acompanhar visualmente o ciclo completo dos atendimentos.
 
 ```text
-🤖 Artificial Intelligence
-      │
-      ├── AI Assistants
-      ├── Voice Interfaces
-      └── Intelligent Automation
+EM ABERTO
+    ↓
+EM ANDAMENTO
+    ↓
+AGUARDANDO USUÁRIO
+    ↓
+CONCLUÍDO
+```
 
-🔌 Embedded Systems
-      │
-      ├── ESP32
-      ├── IoT
-      ├── Sensors
-      └── Connected Devices
+### 🎫 Gestão de Atendimento
 
-⚙️ Software Engineering
-      │
-      ├── Full Stack
-      ├── APIs
-      ├── Automation
-      └── DevOps
+* Abertura e acompanhamento de chamados
+* Kanban de atendimento
+* Classificação de chamados
+* Definição de prioridades
+* Responsáveis e técnicos
+* Comentários
+* Anexos
+* Histórico de movimentações
+* Status personalizados
+* Controle de SLA
+
+---
+
+## 🗺️ Monitoramento de Ativos
+
+<div align="center">
+
+<img src="./assets/smart-helpdesk-assets.png"
+  width="100%"
+  alt="Smart HelpDesk - Monitoramento Geográfico de Ativos">
+
+</div>
+
+<br>
+
+O Smart HelpDesk também possui um módulo de **monitoramento de infraestrutura**, permitindo acompanhar computadores e ativos de TI geograficamente.
+
+### 🖥️ Recursos de Monitoramento
+
+* 🗺️ Visualização dos ativos em mapa
+* 🟢 Equipamentos online
+* 🔴 Equipamentos offline
+* ⚠️ Identificação de alertas
+* 🏢 Organização por município
+* 🏬 Organização por unidade
+* 💻 Identificação individual do computador
+* 🌐 Endereço IP
+* 📡 Status de conectividade
+* 📊 Indicadores gerais da infraestrutura
+
+### ⚡ Monitoramento
+
+```text
+AGENTE
+  │
+  ├── Hostname
+  ├── IP
+  ├── Hardware
+  ├── Sistema
+  └── Status
+        │
+        ▼
+       API
+        │
+        ▼
+   Smart HelpDesk
+        │
+        ├── Dashboard
+        ├── Mapa
+        ├── Alertas
+        └── Chamados
+```
+
+Um problema identificado pelo monitoramento pode ser integrado ao próprio fluxo de atendimento da plataforma.
+
+---
+
+## ⚙️ Recursos da Plataforma
+
+<table>
+
+<tr>
+
+<td>🎫 <b>Chamados</b></td>
+<td>Gerenciamento completo do atendimento</td>
+
+</tr>
+
+<tr>
+
+<td>📋 <b>Kanban</b></td>
+<td>Gestão visual do fluxo de trabalho</td>
+
+</tr>
+
+<tr>
+
+<td>⏱️ <b>SLA</b></td>
+<td>Controle de prazos de atendimento</td>
+
+</tr>
+
+<tr>
+
+<td>👨‍💻 <b>Técnicos</b></td>
+<td>Gestão de equipes e responsáveis</td>
+
+</tr>
+
+<tr>
+
+<td>👥 <b>Usuários</b></td>
+<td>Perfis e permissões</td>
+
+</tr>
+
+<tr>
+
+<td>🖥️ <b>Ativos</b></td>
+<td>Inventário e monitoramento</td>
+
+</tr>
+
+<tr>
+
+<td>🗺️ <b>Mapa</b></td>
+<td>Visualização geográfica da infraestrutura</td>
+
+</tr>
+
+<tr>
+
+<td>📚 <b>Base</b></td>
+<td>Base de conhecimento</td>
+
+</tr>
+
+<tr>
+
+<td>📊 <b>Relatórios</b></td>
+<td>Indicadores operacionais</td>
+
+</tr>
+
+<tr>
+
+<td>⭐ <b>Satisfação</b></td>
+<td>Avaliação dos atendimentos</td>
+
+</tr>
+
+</table>
+
+### 💻 Stack
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Docker` `REST API`
+
+---
+
+# 🔬 Áreas que estou explorando
+
+```text
+Software Engineering
+│
+├── Full Stack Development
+├── APIs & Microservices
+├── Software Architecture
+├── Automation
+└── DevOps
+
+
+Artificial Intelligence
+│
+├── AI Assistants
+├── Voice Interfaces
+├── Intelligent Automation
+└── AI Integration
+
+
+Embedded Systems
+│
+├── ESP32
+├── IoT
+├── Sensors
+├── Displays
+└── Connected Devices
+
+
+IT Infrastructure
+│
+├── Computer Networks
+├── Asset Monitoring
+├── Infrastructure Automation
+└── Observability
 ```
 
 ---
@@ -282,44 +468,48 @@ Plataforma para monitoramento e inventário de computadores e ativos de TI.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BergeS7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"/>
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=BergeS7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BergeS7&layout=compact&langs_count=8&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BergeS7&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=BergeS7&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+/>
 
 </div>
 
 ---
 
-# 🐍 Contributions
+# 📈 Atividade
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BergeS7/BergeS7/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=BergeS7&theme=github-compact&hide_border=true&area=true"
+width="100%"
+/>
 
 </div>
-
-> ⚠️ A animação acima precisa de um GitHub Action para ser gerada. Enquanto ele não estiver configurado, a imagem pode não aparecer.
 
 ---
 
 # 🧠 Atualmente
 
-* 🤖 Desenvolvendo a **CLARIA**
-* 💻 Construindo aplicações Full Stack
-* ⚙️ Criando automações com Python
-* 🔌 Explorando ESP32 e IoT
-* 🧠 Estudando aplicações práticas de Inteligência Artificial
-* 🚀 Transformando ideias em produtos funcionais
+```text
+🤖 CLARIA
+   └── AI + ESP32 + Voice + Embedded Systems
+
+🎫 Smart HelpDesk
+   └── Software + Infrastructure + Automation
+
+⚙️ Automation
+   └── Python + APIs + Process Improvement
+
+🔌 IoT
+   └── ESP32 + Sensors + Connected Devices
+```
 
 ---
 
@@ -331,10 +521,16 @@ Plataforma para monitoramento e inventário de computadores e ativos de TI.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-BergeS7-181717?style=for-the-badge\&logo=github)](https://github.com/BergeS7)
+<a href="https://github.com/BergeS7">
+  <img src="https://img.shields.io/badge/GitHub-BergeS7-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<!-- Adicione seu LinkedIn quando quiser:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Bergê-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINK)
+<!-- LINKEDIN
+Substitua SEU_LINKEDIN abaixo e remova os comentários.
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Sergio_Bergê-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 -->
 
 </div>
@@ -343,8 +539,8 @@ Plataforma para monitoramento e inventário de computadores e ativos de TI.
 
 <div align="center">
 
-### ⚡ Software • Hardware • Automation • AI
+### ⚡ SOFTWARE • HARDWARE • AUTOMATION • AI
 
-*"Build things that solve real problems."*
+**Build things that solve real problems.**
 
 </div>
