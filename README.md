@@ -521,26 +521,20 @@ width="100%"
 
 <br>
 
+<a href="mailto:sergioberge07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sergioberge07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <a href="https://github.com/BergeS7">
   <img src="https://img.shields.io/badge/GitHub-BergeS7-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<!-- LINKEDIN
-Substitua SEU_LINKEDIN abaixo e remova os comentários.
-
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Sergio_Bergê-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://oigresyt7-blip.github.io/oigresyt7-blip.gitihub.io/">
+  <img src="https://img.shields.io/badge/Portfólio-Visitar-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
--->
 
-</div>
-
----
-
-<div align="center">
-
-### ⚡ SOFTWARE • HARDWARE • AUTOMATION • AI
-
-**Build things that solve real problems.**
+<a href="https://www.instagram.com/sergio_berge/">
+  <img src="https://img.shields.io/badge/Instagram-%40sergio__berge-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
