@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Sergio Bergê
+# 👋 Olá, eu sou Sergio Bergê 
 
 ### Software Developer • Computer Engineering • Automation • IoT • AI
 
