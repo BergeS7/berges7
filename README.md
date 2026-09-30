@@ -485,7 +485,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BergeS7&layo
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=BergeS7&theme=github-compact&hide_border=true&area=true"
+src="https://ghchart.rshah.org/2563eb/BergeS7"
+alt="Contribuições de BergeS7"
 width="100%"
 />
 
